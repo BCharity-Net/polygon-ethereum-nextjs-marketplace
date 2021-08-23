@@ -1,5 +1,5 @@
 ## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
-![YouTube](https://www.youtube.com/watch?v=GKJBEEXUha0)
+![YouTube: Polygon NFT-MarketPlace](https://www.youtube.com/watch?v=GKJBEEXUha0)
 ![Header](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfofv47dooojerkmfgr4.png)
 
 ### Running this project
